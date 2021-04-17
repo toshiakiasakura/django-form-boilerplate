@@ -1,7 +1,5 @@
-Django-Simple-CRUD-Sample
-====
+# Django, form, boilerplate
 
-Template boilerplate
 
 ## References.
 
